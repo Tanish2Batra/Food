@@ -9,4 +9,4 @@ This repository contains information about different food items like fruits, veg
 - **Added** a `watermelon` file to the `fruits` folder.
 
 ## Hosted Link
-[Food Repository on GitHub](https://github.com/your-username/Food)
+[Food Repository on GitHub](https://github.com/Tanish2Batra/Food.git)
